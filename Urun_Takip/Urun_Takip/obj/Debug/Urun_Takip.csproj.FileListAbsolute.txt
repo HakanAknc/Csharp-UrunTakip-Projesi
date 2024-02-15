@@ -1,0 +1,15 @@
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe.config
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\bin\Debug\Urun_Takip.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Form1.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Properties.Resources.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.GenerateResource.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.exe
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.pdb
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmUrun.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.Frmistatistik.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmAdmin.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmYonlendirme.resources
+C:\Users\Hakan Akıncı\C#_FormTutorial\Urun_Takip\Urun_Takip\obj\Debug\Urun_Takip.FrmGrafikler.resources
