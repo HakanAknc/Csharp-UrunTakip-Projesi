@@ -7,4 +7,5 @@ Projede yer alan başlıklar şöyle;
 - İstatistikler
 - Garfikler
 - Login ekranı
-olmak üzere 5 başlık şeklinde ayarlandı ve işlemlerin hepsi başarılı bir şekilde oluşturuldu.
+olmak üzere 5 başlık şeklinde ayarlandı ve işlemlerin hepsi başarılı bir şekilde oluşturuldu...
+
